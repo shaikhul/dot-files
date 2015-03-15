@@ -1,0 +1,35 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "command": "refresh_folder_list",
+    "default_line_ending": "unix",
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "fallback_encoding": "UTF-8",
+    "folder_exclude_patterns":
+    [
+        ".sass-cache",
+        "node_modules",
+        "server/public",
+        ".tmp"
+    ],
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "keys":
+    [
+        "f5"
+    ],
+    "pylinter":
+    {
+        "python_bin": "path-to-python-env"
+    },
+    "rulers":
+    [
+        80
+    ],
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_spaces_on_save": true
+}
